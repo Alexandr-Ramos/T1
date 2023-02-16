@@ -1,7 +1,7 @@
 Primera tasca APA 2023: Anàlisi fitxer de so
 ============================================
 
-## Nom i cognoms:
+## Nom i cognoms: Alexandr Ramos
 
 
 
